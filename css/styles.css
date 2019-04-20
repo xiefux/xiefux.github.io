@@ -1,0 +1,26 @@
+html{
+	background:black;
+}
+
+
+a{
+	color:green;
+	margin-left: 5%;
+	font-size: 120%;
+	text-decoration:none;
+	
+	
+}
+
+h1{
+	color:white;
+}
+
+.coolpicImg{
+	margin-top: 5%;
+}
+
+.underconst{
+	margin-top:2%;
+	margin-bottom: 2%;
+}
